@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"koors","l":"FirstFrame"},{"p":"koors","l":"Klient"},{"p":"koors","l":"Konferen"},{"p":"koors","l":"Serv"},{"p":"koors","l":"User"}];updateSearchResults();
